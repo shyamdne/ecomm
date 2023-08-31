@@ -11,6 +11,8 @@ public class SplitTEst {
 		for (String str : result) {
 
 			System.out.print(str + ", ");
+						System.out.println();
+
 
 		}
 
